@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 
 public class FindSmallestLargest {
     public static void main(String[] args) 
@@ -14,7 +14,6 @@ public class FindSmallestLargest {
                 lg = arr[i];
             }
         }
-        System.out.println(lg+ " "+ sm);
-    
+        System.out.println(lg + " " + sm);
     }
 }
