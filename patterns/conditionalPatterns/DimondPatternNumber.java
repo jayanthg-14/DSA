@@ -14,7 +14,7 @@
 
 import java.util.*;
 
-public class DimondPatterrn
+public class DimondPatternNumber
 {
     public static void main(String[] args)
     {
